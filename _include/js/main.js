@@ -82,7 +82,7 @@ BRUSHED.slider = function(){
 		thumb_links				:	0,			// Individual thumb links for each slide
 		thumbnail_navigation    :   0,			// Thumbnail navigation
 		slides 					:  	[			// Slideshow Images
-											{image : '_include/img/slider-images/merchparted2.jpg', title : '<div class="slide-content"><div class="slider-wrap"></div></div>', thumb : '', url : 'http://store.asenseofgravity.com'}
+											{image : '_include/img/slider-images/atrament-out-now.jpg', title : '<div class="slide-content"><div class="slider-wrap"></div></div>', thumb : '', url : 'http://store.asenseofgravity.com'}
 									],
 									
 		// Theme Options			   
